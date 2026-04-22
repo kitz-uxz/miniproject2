@@ -1,0 +1,12 @@
+# Ignore uploads folder but keep the directory
+uploads/*
+!uploads/.gitkeep
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
